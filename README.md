@@ -1,3 +1,10 @@
+# Redux kullanarak yapılan bu uygulama Bill Gates e ait $100 000 000 000 parayı nasıl harcayabilieceğimizin bir simulasyonunudur.
+
+# Kullanılan tekonlojiler
+-Redux
+-Tailwindcss
+-Typescript
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
