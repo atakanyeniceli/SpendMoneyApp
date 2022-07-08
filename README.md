@@ -1,6 +1,6 @@
 # Redux kullanarak yapılan bu uygulama Bill Gates e ait $100 000 000 000 parayı nasıl harcayabilieceğimizin bir simulasyonunudur.
 
-# Kullanılan tekonlojiler
+# Kullanılan teknolojiler
 -Redux
 -Tailwindcss
 -Typescript
